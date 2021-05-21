@@ -1,5 +1,4 @@
 # Educación y Nivel Socioeconómico
-**Equipo 19**
 - Orlando Aguilar
 - Mario Encinas
 - Andrés Sánchez
